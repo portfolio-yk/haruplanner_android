@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">하루플래너</string>
+    <string name="notification_channel_name">Haru Planner 알림</string>
+</resources>
